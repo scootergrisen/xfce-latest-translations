@@ -1,0 +1,17 @@
+Xfce releases are so super rare (like 3-5 years) so its hard for me as a Xfce translator to test my changes in Xfce.
+
+Building Xfce is to hard for me.
+
+I would like someone to setup a computer to automatically build an iso file like once a month or something with latest Xfce (including latest translations) so i can easily test the translations in VirtualBox.
+
+But so far i have no seen this.
+
+So i made this to help Xfce translations download the latest translations from Transifex, rename the files so they are correct and share a folder in VirtualBox to get the files from the host system to the guest system if needed.
+
+Not perfect because of the software version might not match the version of the translation file but might be usefull untill something better is made.
+
+I test Xfce in Xubuntu 19.04 which seems to be the newest Xfce stuff i can get at the moment.
+
+You can download Xubuntu from https://xubuntu.org/download
+
+You are welcome to help improve this to help the Xfce translators.
